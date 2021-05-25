@@ -2,7 +2,7 @@
 Sample code for implementing serverless face detection solution for images, videos and live stream using Azure
 
 ## The Motivation
-This is a serverless project build using Azure Functions, Azure CosmosDB (NoSQL), Azure Redis Cache for implementing serverless face detection solution for images, videos and live stream.
+This is a serverless project build using Azure Functions, Azure CosmosDB (NoSQL), Azure Redis Cache and Azure Blob Storage for implementing serverless face detection solution for images, videos and live stream.
 
 
 ## The Idea
